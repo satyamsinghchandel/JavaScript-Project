@@ -1,2 +1,2 @@
 # JavaScript-Project
-This is the  first project I made while learning javascript
+These are the projects I made while learning javascript
